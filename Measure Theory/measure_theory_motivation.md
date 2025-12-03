@@ -1,6 +1,6 @@
 # Motivation to Learn Measure Theory
 
-![Sigma Algebra Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sigma-algebra-illustration.svg/512px-Sigma-algebra-illustration.svg.png)
+![Sigma Algebra Illustration](https://images.openai.com/static-rsc-1/GnD2selA3Xr7d3RnDRbBFDHnj_Ovw_VRADh4-MlNsf3xqgJIhcRI0hA42ECVdfGtFYiPWmgPxAei1TotHYGoI9jNIBUVqb38k5vYL226xB-MHS3xzrulZWImEy_iIEanaziSuh2eZmGCT73VNlsrdA)
 
 Measure theory is the foundation behind modern probability, quantitative finance, machine learning, information theory, and stochastic processes. At first, it may feel abstract — σ-algebras, measurable sets, non-measurable sets, and Lebesgue measure — but these concepts exist because classical intuition breaks for complicated sets.
 

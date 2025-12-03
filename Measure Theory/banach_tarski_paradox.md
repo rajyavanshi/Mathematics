@@ -1,6 +1,6 @@
 # Banach–Tarski Paradox
 
-![Banach–Tarski Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Banach-Tarski-Paradox.svg/512px-Banach-Tarski-Paradox.svg.png)
+![Banach–Tarski Illustration](https://www.quantamagazine.org/wp-content/uploads/2021/08/Banach-Tarski-2-MOBILE.jpg)
 
 The Banach–Tarski paradox states that:
 
